@@ -1,0 +1,45 @@
+/* main page css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding-top: 20px;
+    background-image: url('../assets/mainbg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+
+}
+
+.welcome-container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.welcome-heading {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.btn {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+}
+
+.box-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+
+  .welcome-heading {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
